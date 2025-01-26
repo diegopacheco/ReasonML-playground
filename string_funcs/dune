@@ -1,0 +1,3 @@
+(executable
+ (name string_funcs)
+ (public_name string_funcs))
