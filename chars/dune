@@ -1,0 +1,3 @@
+(executable
+ (name chars)
+ (public_name chars))
