@@ -1,0 +1,13 @@
+opam-version: "2.0"
+name: "greet"
+version: "0.1"
+synopsis: "A simple hello world executable"
+description: """
+A simple hello world executable written in ReasonML.
+"""
+depends: [
+  "dune" {>= "2.0"}
+]
+build: [
+  ["dune" "build" "-p" name]
+]
