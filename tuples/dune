@@ -1,0 +1,3 @@
+(executable
+ (name tuples)
+ (public_name tuples))
