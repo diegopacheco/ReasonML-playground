@@ -1,0 +1,3 @@
+(executable
+ (name fold_reduce)
+ (public_name fold_reduce))
