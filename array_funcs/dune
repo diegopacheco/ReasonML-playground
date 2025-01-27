@@ -1,0 +1,3 @@
+(executable
+ (name array_funcs)
+ (public_name array_funcs))
