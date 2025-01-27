@@ -1,0 +1,3 @@
+(executable
+ (name type_annotations)
+ (public_name type_annotations))
