@@ -1,0 +1,3 @@
+(executable
+ (name aliases)
+ (public_name aliases))
