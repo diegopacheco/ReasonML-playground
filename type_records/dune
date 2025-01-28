@@ -1,0 +1,3 @@
+(executable
+ (name type_records)
+ (public_name type_records))
