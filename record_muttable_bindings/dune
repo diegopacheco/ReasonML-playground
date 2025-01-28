@@ -1,0 +1,3 @@
+(executable
+ (name record_muttable_bindings)
+ (public_name record_muttable_bindings))
