@@ -1,0 +1,3 @@
+(executable
+ (name records)
+ (public_name records))
