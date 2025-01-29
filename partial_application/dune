@@ -1,0 +1,3 @@
+(executable
+ (name partial_application)
+ (public_name partial_application))
