@@ -1,0 +1,3 @@
+(executable
+ (name destruction_func_args)
+ (public_name destruction_func_args))
