@@ -1,0 +1,3 @@
+(executable
+ (name ref_mutable_bindings)
+ (public_name ref_mutable_bindings))
