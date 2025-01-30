@@ -1,0 +1,3 @@
+(executable
+ (name modules)
+ (public_name modules))
